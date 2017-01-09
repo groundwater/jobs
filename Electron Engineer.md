@@ -2,7 +2,18 @@
 
 We want Electron to be the best option for building desktop apps.
 
-GitHub is looking for a software developer to work on the Electron project. Electron is a community and open source project that makes it possible for developers to leverage web development skills to build desktop applications.
+GitHub is looking for a software developer to work on the 100% open source Electron project. Electron is a community and open source project that makes it possible for developers to leverage web development skills to build desktop applications.
+
+Electron already powers many of the apps you may use today, including [the Atom Editor](https://atom.io/), the Slack Desktop Client, Visual Studio Code, and [many more](http://electron.atom.io/apps/).
+
+**Your work is open, and every line of code you write can benefit millions of users.**
+
+Our main projects are [electron](https://github.com/electron/electron),
+[brightray](https://github.com/electron/brightray),
+[electron.atom.io](https://github.com/electron/electron.atom.io),
+and [libchromiumcontent](https://github.com/electron/libchromiumcontent).
+We also sometimes work with other projects in [github.com/electron](https://github.com/electron),
+and [github.com/electron-userland](https://github.com/electron-userland).
 
 ## Team Goals
 
